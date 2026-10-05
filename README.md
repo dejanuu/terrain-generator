@@ -1,5 +1,7 @@
 # Minecraft County Generator
 
+**Currently still some unidentified blocks where stone blocks are placed, ocean is not included when shore is reached** 
+
 Turn any US county into a Minecraft Java world, built from real elevation and land cover data.
 
 Type a county name, and it builds the land inside that county's real borders: hills and valleys from satellite elevation data, plus forests, farmland, towns, lakes, rivers, wetlands and snow from satellite land cover maps.
