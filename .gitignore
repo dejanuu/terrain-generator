@@ -1,0 +1,16 @@
+# Your personal settings -- contains your OpenTopography API key. Never upload this.
+settings.json
+
+# Downloaded data and caches
+work/
+__pycache__/
+*.pyc
+
+# Editor leftovers
+#*#
+*~
+.vscode/
+.idea/
+
+# Zips made for sharing
+*.zip

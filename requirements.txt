@@ -1,0 +1,17 @@
+# Core geospatial stack
+rasterio>=1.3.9
+numpy>=1.26
+
+# Land cover data (ESA WorldCover via Microsoft Planetary Computer)
+pystac-client>=0.8.2
+planetary-computer>=1.0.0
+
+# Minecraft region/world file writer
+anvil-parser2>=0.10.6
+
+# County outlines (reads the Census Bureau's county boundary file)
+pyshp>=2.3
+
+# Downloads + progress bars
+requests>=2.31
+tqdm>=4.66
